@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../srah-chistogo-lista"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ono-tebe-nado"
+	}
+}
