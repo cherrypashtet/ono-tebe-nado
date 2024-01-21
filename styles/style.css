@@ -160,6 +160,10 @@
   flex-wrap: wrap;
 }
 
+.card-link {
+  text-decoration: none;
+}
+
 .card {
   display: flex;
   flex-direction: column;
